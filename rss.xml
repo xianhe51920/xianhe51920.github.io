@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>仙鹤的学习小窝</title><description>坚持学习，无限进步</description><link>https://fairycrane.website/</link><language>zh_CN</language><item><title>数据结构（综述）</title><link>https://fairycrane.website/posts/data-structure/</link><guid isPermaLink="true">https://fairycrane.website/posts/data-structure/</guid><description>数据结构：基本概念、顺序表、链表</description><pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;数据结构&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>仙鹤的学习小窝</title><description>坚持学习，无限进步</description><link>https://xianhe51920.github.io/</link><language>zh_CN</language><item><title>数据结构（综述）</title><link>https://xianhe51920.github.io/posts/data-structure/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/data-structure/</guid><description>数据结构：基本概念、顺序表、链表</description><pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;数据结构&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;依据 王道考研《数据结构》课程整理（本文件为全部章节的总笔记，随阅读逐章追加）。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -813,7 +813,7 @@ p-&amp;gt;data = e;            // p 覆盖为 e
 &lt;blockquote&gt;
 &lt;p&gt;对比：顺序表可&quot;随机存取&quot;（$O(1)$ 按位访问）；单链表只能&lt;strong&gt;依次扫描&lt;/strong&gt;，三种基本操作（按位插入/删除/查找）平均都是 $O(n)$。写循环扫描时要&lt;strong&gt;注意边界条件&lt;/strong&gt;。&lt;/p&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>Java 核心与 AI 开发进阶</title><link>https://fairycrane.website/posts/java-core-ai-advanced/</link><guid isPermaLink="true">https://fairycrane.website/posts/java-core-ai-advanced/</guid><description>Java 核心与 AI 开发进阶</description><pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Java核心与AI开发进阶&lt;/h1&gt;
+</content:encoded></item><item><title>Java 核心与 AI 开发进阶</title><link>https://xianhe51920.github.io/posts/java-core-ai-advanced/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/java-core-ai-advanced/</guid><description>Java 核心与 AI 开发进阶</description><pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Java核心与AI开发进阶&lt;/h1&gt;
 &lt;h2&gt;第十二章：集合高级&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;集合是长度可变的容器。Java 集合按&quot;单列/双列&quot;分为两大体系：&lt;strong&gt;单列&lt;/strong&gt;（一次添加一个元素，对应 &lt;code&gt;Collection&lt;/code&gt; 接口）和&lt;strong&gt;双列&lt;/strong&gt;（一次添加两个元素即键值对，对应 &lt;code&gt;Map&lt;/code&gt; 接口）。本篇覆盖 &lt;code&gt;Collection&lt;/code&gt;、&lt;code&gt;List&lt;/code&gt;、常用数据结构、&lt;code&gt;ArrayList&lt;/code&gt; / &lt;code&gt;LinkedList&lt;/code&gt; 以及泛型基础。&lt;/p&gt;
@@ -5735,7 +5735,7 @@ public static void main(String[] args) {
 &lt;li&gt;使用 &lt;code&gt;Proxy&lt;/code&gt; 中的 &amp;lt;span style=&quot;color:green&quot;&amp;gt;&lt;code&gt;newProxyInstance()&lt;/code&gt;&amp;lt;/span&amp;gt; 方法创建代理对象&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>物理振动（能量与合成）</title><link>https://fairycrane.website/posts/physics-oscillation/</link><guid isPermaLink="true">https://fairycrane.website/posts/physics-oscillation/</guid><description>大二物理：振动方程、能量与合成</description><pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;大二物理上&lt;/h1&gt;
+</content:encoded></item><item><title>物理振动（能量与合成）</title><link>https://xianhe51920.github.io/posts/physics-oscillation/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/physics-oscillation/</guid><description>大二物理：振动方程、能量与合成</description><pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;大二物理上&lt;/h1&gt;
 &lt;h2&gt;课时一 振动学方程&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -5961,7 +5961,7 @@ public static void main(String[] args) {
 &lt;p&gt;$$A = \sqrt{A_1^2 + A_2^2 + 2A_1A_2\cos(\varphi_2-\varphi_1)} = \sqrt{0.03^2 + 0.05^2 + 2\times0.03\times0.05\cos(-\pi)} = 0.02$$&lt;/p&gt;
 &lt;p&gt;$$\tan\varphi = \frac{0.03\sin\frac{\pi}{3} + 0.05\sin\left(-\frac{2\pi}{3}\right)}{0.03\cos\frac{\pi}{3} + 0.05\cos\left(-\frac{2\pi}{3}\right)} = \sqrt{3}$$&lt;/p&gt;
 &lt;p&gt;由旋转矢量法可知 $\varphi = -\dfrac{2\pi}{3}$，故 $x = 0.02\cos\left(2\pi t - \dfrac{2\pi}{3}\right)$。&lt;/p&gt;
-</content:encoded></item><item><title>Java 核心与 AI 开发基础</title><link>https://fairycrane.website/posts/java-core-ai-basic/</link><guid isPermaLink="true">https://fairycrane.website/posts/java-core-ai-basic/</guid><description>Java 核心语法与 AI 开发基础</description><pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Java核心与AI开发基础&lt;/h1&gt;
+</content:encoded></item><item><title>Java 核心与 AI 开发基础</title><link>https://xianhe51920.github.io/posts/java-core-ai-basic/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/java-core-ai-basic/</guid><description>Java 核心语法与 AI 开发基础</description><pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Java核心与AI开发基础&lt;/h1&gt;
 &lt;h2&gt;目录&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#%E7%AC%AC%E9%9B%B6%E7%AB%A0-%E5%AF%BC%E5%AD%A6%E9%83%A8%E5%88%86&quot;&gt;第零章 导学部分&lt;/a&gt;&lt;/li&gt;
@@ -13125,7 +13125,7 @@ while (it.hasNext()) {
 &lt;li&gt;&amp;lt;span style=&quot;color:blue&quot;&amp;gt;删除元素不能一边遍历一边删除，要倒着删或用迭代器&amp;lt;/span&amp;gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>C 语言过渡 C++</title><link>https://fairycrane.website/posts/c-to-cpp/</link><guid isPermaLink="true">https://fairycrane.website/posts/c-to-cpp/</guid><description>从 C 过渡到 C++</description><pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;C 语言过渡 C++&lt;/h1&gt;
+</content:encoded></item><item><title>C 语言过渡 C++</title><link>https://xianhe51920.github.io/posts/c-to-cpp/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/c-to-cpp/</guid><description>从 C 过渡到 C++</description><pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;C 语言过渡 C++&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;本笔记按&quot;基础篇 → STL 篇 → 进阶篇 → C++11 篇&quot;四部分整理，弥补 C 与 C++ 在语法、标准库、常用特性上的差异，作为刷题与竞赛入门的过渡资料。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -14514,7 +14514,7 @@ int* q = NULL;     // 不推荐，NULL == 0
 &lt;li&gt;&lt;strong&gt;不确定时&lt;/strong&gt;：一律用 &lt;code&gt;long long&lt;/code&gt;（除非二维数组过大，内存不够才精细算）。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;不要用 &lt;code&gt;long&lt;/code&gt;&lt;/strong&gt;：不同平台长度不一（Windows 4 字节，Linux 8 字节），刷题统一用 &lt;code&gt;int&lt;/code&gt; 和 &lt;code&gt;long long&lt;/code&gt;。&lt;/li&gt;
 &lt;/ol&gt;
-</content:encoded></item><item><title>C++ 常用头文件</title><link>https://fairycrane.website/posts/cpp-headers/</link><guid isPermaLink="true">https://fairycrane.website/posts/cpp-headers/</guid><description>C++ 常用头文件知识</description><pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;C++常用头文件&lt;/h1&gt;
+</content:encoded></item><item><title>C++ 常用头文件</title><link>https://xianhe51920.github.io/posts/cpp-headers/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/cpp-headers/</guid><description>C++ 常用头文件知识</description><pubDate>Thu, 03 Sep 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;C++常用头文件&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;本节按头文件分组整理算法竞赛常用 API：&lt;code&gt;cmath&lt;/code&gt; 负责数学函数，&lt;code&gt;algorithm&lt;/code&gt; 负责通用算法（排序、查找、堆），&lt;code&gt;numeric&lt;/code&gt; 负责数值算法（累加、GCD、扫描）。三者搭配 STL 容器，覆盖刷题 90% 的场景。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -15652,7 +15652,7 @@ getline(cin, s);
 &lt;blockquote&gt;
 &lt;p&gt;⚠️ &lt;strong&gt;刷题最常用&lt;/strong&gt;：&lt;code&gt;1LL * a * b&lt;/code&gt; 防止乘法溢出。&lt;/p&gt;
 &lt;/blockquote&gt;
-</content:encoded></item><item><title>Git 与 GitHub</title><link>https://fairycrane.website/posts/git-github/</link><guid isPermaLink="true">https://fairycrane.website/posts/git-github/</guid><description>Git 与 GitHub 入门与常用命令</description><pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Git 与 GitHub&lt;/h1&gt;
+</content:encoded></item><item><title>Git 与 GitHub</title><link>https://xianhe51920.github.io/posts/git-github/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/git-github/</guid><description>Git 与 GitHub 入门与常用命令</description><pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Git 与 GitHub&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;本笔记涵盖 Git 版本控制与 GitHub 协作平台的核心概念、常用命令、多人协作流程及高级特性。
 &lt;strong&gt;参考链接&lt;/strong&gt;&lt;br /&gt;
@@ -16102,7 +16102,7 @@ git push -f
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>C 语言</title><link>https://fairycrane.website/posts/c-language/</link><guid isPermaLink="true">https://fairycrane.website/posts/c-language/</guid><description>C 语言学习笔记</description><pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;C 语言&lt;/h1&gt;
+</content:encoded></item><item><title>C 语言</title><link>https://xianhe51920.github.io/posts/c-language/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/c-language/</guid><description>C 语言学习笔记</description><pubDate>Sun, 23 Aug 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;C 语言&lt;/h1&gt;
 &lt;h2&gt;第一章 C 语言入门&lt;/h2&gt;
 &lt;h3&gt;计算机系统组成&lt;/h3&gt;
 &lt;p&gt;计算机系统由 &amp;lt;span style=&quot;color:red&quot;&amp;gt;&lt;strong&gt;硬件系统&lt;/strong&gt;&amp;lt;/span&amp;gt; 和 &amp;lt;span style=&quot;color:blue&quot;&amp;gt;&lt;strong&gt;软件系统&lt;/strong&gt;&amp;lt;/span&amp;gt; 组成，硬件是物理载体，软件是运行其上的指令集合。&lt;/p&gt;
@@ -24064,7 +24064,7 @@ void add_person(const char* name, const char* phone)
     ++size;    // 更新size
 }
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>线性代数笔记</title><link>https://fairycrane.website/posts/linear-algebra/</link><guid isPermaLink="true">https://fairycrane.website/posts/linear-algebra/</guid><description>大一下线代：线性代数</description><pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;线性代数笔记&lt;/h1&gt;
+</content:encoded></item><item><title>线性代数笔记</title><link>https://xianhe51920.github.io/posts/linear-algebra/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/linear-algebra/</guid><description>大一下线代：线性代数</description><pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;线性代数笔记&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;h2&gt;目录&lt;/h2&gt;
 &lt;h3&gt;&lt;a href=&quot;#%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%E8%A1%8C%E5%88%97%E5%BC%8F&quot;&gt;第一部分：行列式&lt;/a&gt;&lt;/h3&gt;
@@ -27467,7 +27467,7 @@ $$\boldsymbol{-\sqrt{2}&amp;lt;t&amp;lt;\sqrt{2}}$$&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>概率论与数理统计</title><link>https://fairycrane.website/posts/probability-statistics/</link><guid isPermaLink="true">https://fairycrane.website/posts/probability-statistics/</guid><description>大二上概率论与数理统计</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;概率论与数理统计-速成课笔记&lt;/h1&gt;
+</content:encoded></item><item><title>概率论与数理统计</title><link>https://xianhe51920.github.io/posts/probability-statistics/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/probability-statistics/</guid><description>大二上概率论与数理统计</description><pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;概率论与数理统计-速成课笔记&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;h1&gt;第一章&lt;/h1&gt;
 &lt;h2&gt;第一讲 随机事件及其概率（一）&lt;/h2&gt;
@@ -27641,7 +27641,7 @@ $$\boldsymbol{-\sqrt{2}&amp;lt;t&amp;lt;\sqrt{2}}$$&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;【解】&lt;/strong&gt; 5 次独立重复射击，$p=0.8$，则：&lt;/p&gt;
 &lt;p&gt;$$P{\text{5 次试验中命中 2 次}}=P_{5}(2)=C_{5}^{2}\cdot p^{2}\cdot(1-p)^{3}=C_{5}^{2}\cdot 0.8^{2}\cdot 0.2^{3}$$&lt;/p&gt;
 &lt;hr /&gt;
-</content:encoded></item><item><title>线性代数公式要点</title><link>https://fairycrane.website/posts/linear-algebra-formulas/</link><guid isPermaLink="true">https://fairycrane.website/posts/linear-algebra-formulas/</guid><description>大一下线代：公式要点速览</description><pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;线性代数公式要点&lt;/h1&gt;
+</content:encoded></item><item><title>线性代数公式要点</title><link>https://xianhe51920.github.io/posts/linear-algebra-formulas/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/linear-algebra-formulas/</guid><description>大一下线代：公式要点速览</description><pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;线性代数公式要点&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;h2&gt;第一部分：行列式&lt;/h2&gt;
 &lt;h3&gt;概念性质&lt;/h3&gt;
@@ -28239,7 +28239,7 @@ $$\boldsymbol{-\sqrt{2}&amp;lt;t&amp;lt;\sqrt{2}}$$&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;正定矩阵判定：$D_k &amp;gt; 0$（$k=1,2,\dots,n$）&lt;/li&gt;
 &lt;/ol&gt;
-</content:encoded></item><item><title>大学物理B1</title><link>https://fairycrane.website/posts/physics-b1/</link><guid isPermaLink="true">https://fairycrane.website/posts/physics-b1/</guid><description>大一下物理：大学物理 B1</description><pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;大学物理B1&lt;/h1&gt;
+</content:encoded></item><item><title>大学物理B1</title><link>https://xianhe51920.github.io/posts/physics-b1/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/physics-b1/</guid><description>大一下物理：大学物理 B1</description><pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;大学物理B1&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;h2&gt;目录&lt;/h2&gt;
 &lt;ol&gt;
@@ -30440,7 +30440,7 @@ $$\oint \vec{E} \cdot d\vec{l} = -\frac{d\Phi}{dt} = -\iint_S \frac{\partial \ve
 &lt;p&gt;(2) 变化的电场产生磁场：&lt;strong&gt;D&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;(3) 磁场是无源场，磁力线闭合：&lt;strong&gt;C&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;(4) 电荷总伴随着电场：&lt;strong&gt;A&lt;/strong&gt;&lt;/p&gt;
-</content:encoded></item><item><title>大物B1公式要点速览</title><link>https://fairycrane.website/posts/physics-b1-formulas/</link><guid isPermaLink="true">https://fairycrane.website/posts/physics-b1-formulas/</guid><description>大一下物理 B1 公式要点速览</description><pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;大学物理B1公式要点速览&lt;/h1&gt;
+</content:encoded></item><item><title>大物B1公式要点速览</title><link>https://xianhe51920.github.io/posts/physics-b1-formulas/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/physics-b1-formulas/</guid><description>大一下物理 B1 公式要点速览</description><pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;大学物理B1公式要点速览&lt;/h1&gt;
 &lt;hr /&gt;
 &lt;h2&gt;01质点运动学（一）&lt;/h2&gt;
 &lt;table&gt;
@@ -31413,7 +31413,7 @@ $$\oint \vec{E} \cdot d\vec{l} = -\frac{d\Phi}{dt} = -\iint_S \frac{\partial \ve
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>响应式布局</title><link>https://fairycrane.website/posts/response/</link><guid isPermaLink="true">https://fairycrane.website/posts/response/</guid><description>媒体查询，bootstrap</description><pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;响应式布局&lt;/h1&gt;
+</content:encoded></item><item><title>响应式布局</title><link>https://xianhe51920.github.io/posts/response/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/response/</guid><description>媒体查询，bootstrap</description><pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;响应式布局&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;媒体查询&lt;/li&gt;
 &lt;li&gt;BootStrap响应式&lt;/li&gt;
@@ -32892,7 +32892,7 @@ mask-image: linear-gradient(45deg, #FF6B6B, #4ECDC4);
   background: linear-gradient(45deg, var(--vivo-cyan), var(--vivo-blue));
 }
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>css移动网页开发</title><link>https://fairycrane.website/posts/mobile_pages/</link><guid isPermaLink="true">https://fairycrane.website/posts/mobile_pages/</guid><description>移动端基础知识，vw/vm适配，rem适配</description><pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;移动网页开发&lt;/h1&gt;
+</content:encoded></item><item><title>css移动网页开发</title><link>https://xianhe51920.github.io/posts/mobile_pages/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/mobile_pages/</guid><description>移动端基础知识，vw/vm适配，rem适配</description><pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;移动网页开发&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;移动端知识&lt;/li&gt;
 &lt;li&gt;vw/vmin适配方案&lt;/li&gt;
@@ -33148,7 +33148,7 @@ rem值 = 设计稿元素尺寸 / html的font-size（&lt;strong&gt;基准值&lt;/
 &lt;li&gt;Flexible.js实现动态修改html根字号大小&lt;/li&gt;
 &lt;li&gt;利用插件实现px转换为rem单位&lt;/li&gt;
 &lt;/ol&gt;
-</content:encoded></item><item><title>css前沿技术拓展</title><link>https://fairycrane.website/posts/frontier_expansion/</link><guid isPermaLink="true">https://fairycrane.website/posts/frontier_expansion/</guid><description>包含SVG图片,裁剪，时间线等知识</description><pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;前言技术拓展&lt;/h1&gt;
+</content:encoded></item><item><title>css前沿技术拓展</title><link>https://xianhe51920.github.io/posts/frontier_expansion/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/frontier_expansion/</guid><description>包含SVG图片,裁剪，时间线等知识</description><pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;前言技术拓展&lt;/h1&gt;
 &lt;h2&gt;SVG图片&lt;/h2&gt;
 &lt;p&gt;SVG(Scalable Vector Graphics)是一种基于XML的&lt;strong&gt;矢量图形&lt;/strong&gt;标准，由W3C制定，支持无损缩放，交互性和动态效果。其核心点包括：&lt;/p&gt;
 &lt;ul&gt;
@@ -33598,7 +33598,7 @@ rem值 = 设计稿元素尺寸 / html的font-size（&lt;strong&gt;基准值&lt;/
 &lt;p&gt;vw和vh始终基于&lt;code&gt;浏览器可视区域&lt;/code&gt;的实施尺寸计算（不包含浏览器工具栏、地址栏、标签栏等界面元素），他们的值会自动更新。特别适合&lt;code&gt;响应式设计&lt;/code&gt;,&lt;code&gt;全屏布局&lt;/code&gt;，&lt;code&gt;移动适配&lt;/code&gt;等场景。&lt;/p&gt;
 &lt;p&gt;vw（viewport width）：表示视口宽度的&lt;code&gt;1%&lt;/code&gt;&lt;br /&gt;
 vh（viewport height）：表示视口高度的&lt;code&gt;1%&lt;/code&gt;&lt;/p&gt;
-</content:encoded></item><item><title>交互动效设计</title><link>https://fairycrane.website/posts/interaction/</link><guid isPermaLink="true">https://fairycrane.website/posts/interaction/</guid><description>CSS交互动效知识</description><pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;交互动效设计&lt;/h1&gt;
+</content:encoded></item><item><title>交互动效设计</title><link>https://xianhe51920.github.io/posts/interaction/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/interaction/</guid><description>CSS交互动效知识</description><pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;交互动效设计&lt;/h1&gt;
 &lt;h1&gt;一.变换&lt;/h1&gt;
 &lt;p&gt;css&lt;code&gt;transform&lt;/code&gt;是元素进行&lt;code&gt;2D/3D&lt;/code&gt;变换的核心属性，支持平移、旋转、倾斜、缩放、倾斜等效果，且&lt;code&gt;不破坏&lt;/code&gt;原有文档流布局&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;场景&lt;/strong&gt;：
@@ -34144,7 +34144,7 @@ vh（viewport height）：表示视口高度的&lt;code&gt;1%&lt;/code&gt;&lt;/p
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-</content:encoded></item><item><title>现代网页布局</title><link>https://fairycrane.website/posts/page_layouts/</link><guid isPermaLink="true">https://fairycrane.website/posts/page_layouts/</guid><description>正常布局，模式转换布局，弹性布局，定位布局，网格布局，多列布局</description><pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;现代网页布局&lt;/h1&gt;
+</content:encoded></item><item><title>现代网页布局</title><link>https://xianhe51920.github.io/posts/page_layouts/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/page_layouts/</guid><description>正常布局，模式转换布局，弹性布局，定位布局，网格布局，多列布局</description><pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;现代网页布局&lt;/h1&gt;
 &lt;p&gt;CSS 布局是网页设计的核心技术之一，用于控制元素在页面中的排列方式&lt;/p&gt;
 &lt;h4&gt;常见布局技术&lt;/h4&gt;
 &lt;table&gt;
@@ -35954,7 +35954,7 @@ img {
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>CSS基础知识入门</title><link>https://fairycrane.website/posts/css_base/</link><guid isPermaLink="true">https://fairycrane.website/posts/css_base/</guid><description>包含选择器，盒子模型等css基础知识</description><pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;CSS3核心技术&lt;/h1&gt;
+</content:encoded></item><item><title>CSS基础知识入门</title><link>https://xianhe51920.github.io/posts/css_base/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/css_base/</guid><description>包含选择器，盒子模型等css基础知识</description><pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;CSS3核心技术&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;板块&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;CSS3基础知识&lt;/li&gt;
@@ -38221,7 +38221,7 @@ Vue 官网等项目就引入了该 CSS 文件。&lt;/p&gt;
     I --&amp;gt; I1[&quot;原理：背景图+定位&quot;]
     I --&amp;gt; I2[&quot;background-position负值&quot;]
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>用C语言实现扫雷的扩散逻辑</title><link>https://fairycrane.website/posts/mysweeper/</link><guid isPermaLink="true">https://fairycrane.website/posts/mysweeper/</guid><description>复盘一下设计逻辑</description><pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;用C语言实现扫雷的扩散逻辑&lt;/h1&gt;
+</content:encoded></item><item><title>用C语言实现扫雷的扩散逻辑</title><link>https://xianhe51920.github.io/posts/mysweeper/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/mysweeper/</guid><description>复盘一下设计逻辑</description><pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;用C语言实现扫雷的扩散逻辑&lt;/h1&gt;
 &lt;p&gt;刚学习完C语言数组部分的内容，跟着b站老师用C语言写了个扫雷游戏，但是老师并没有教我们写扫雷扩散逻辑，所以我就自己设计了一个扫雷的扩散逻辑&lt;/p&gt;
 &lt;h2&gt;什么是扫雷的扩散逻辑&lt;/h2&gt;
 &lt;p&gt;如图所示，当我们翻开一个位置（图中红色圆圈），如果这个位置为空白区，意味着它的相邻区域（图中红框标记范围）是没有雷的，相邻区域大概可以分为两种情况，一种是数字，一种是空白区。如果是数字，则会直接显示出来；如果是空，除了会显示出来，还会继续检查周围区域，从而继续扩散，直到周围没有空区域为止
@@ -38264,7 +38264,7 @@ void AutoFind(char mine[][COLS], char show[][COLS], int row, int col, int x, int
 &lt;img src=&quot;/images/posts/mysweeper/1.png&quot; alt=&quot;翻开前的效果&quot; /&gt;
 &lt;img src=&quot;/images/posts/mysweeper/2.png&quot; alt=&quot;翻开后的效果&quot; /&gt;
 最后，我会把我扫雷的源代码分享给大家，供大家学习使用，第一次写这么多代码并没有很好的划分各种功能，导致标记功能的制作难以下手，还请谅解&lt;/p&gt;
-</content:encoded></item><item><title>python竞赛常用模块总结</title><link>https://fairycrane.website/posts/py_mod/</link><guid isPermaLink="true">https://fairycrane.website/posts/py_mod/</guid><description>python竞赛常用模块总结</description><pubDate>Sat, 31 Jan 2026 12:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;python竞赛常用模块总结&lt;/h1&gt;
+</content:encoded></item><item><title>python竞赛常用模块总结</title><link>https://xianhe51920.github.io/posts/py_mod/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/py_mod/</guid><description>python竞赛常用模块总结</description><pubDate>Sat, 31 Jan 2026 12:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;python竞赛常用模块总结&lt;/h1&gt;
 &lt;h1&gt;一.快速读取输入&lt;/h1&gt;
 &lt;p&gt;使用sys模块，读取效率较高，推荐使用。&lt;/p&gt;
 &lt;h2&gt;简单快读模板&lt;/h2&gt;
@@ -39049,7 +39049,7 @@ any(strings) # True
 all(map(str.isalpha, &apos;abc123&apos;)) # False（有数字）
 all(map(str.isalpha, &apos;abc&apos;)) # True
 &lt;/code&gt;&lt;/pre&gt;
-</content:encoded></item><item><title>大一上数学公式整理</title><link>https://fairycrane.website/posts/math_guide/</link><guid isPermaLink="true">https://fairycrane.website/posts/math_guide/</guid><description>方便复习的同学快速查阅</description><pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;高等数学上公式汇总&lt;/h1&gt;
+</content:encoded></item><item><title>大一上数学公式整理</title><link>https://xianhe51920.github.io/posts/math_guide/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/math_guide/</guid><description>方便复习的同学快速查阅</description><pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;高等数学上公式汇总&lt;/h1&gt;
 &lt;p&gt;这学期的高等数学也是通关了，之前记了一些公式就拿出来分享一下吧，给需要补考的同学们提供一些便利&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/images/posts/math_guide/%E6%88%90%E7%BB%A9.png&quot; alt=&quot;数学成绩&quot; /&gt;&lt;/p&gt;
 &lt;h2&gt;目录&lt;/h2&gt;
@@ -39274,7 +39274,7 @@ $$ \arcsin x = x + \frac{1}{6}x^3 + \frac{3}{40}x^5 + \cdots + o(x^{2n+1}) $$&lt
 &lt;li&gt;单调性判别：若 $f&apos;(x) &amp;gt; 0$，则 $f(x)$ 单调递增；若 $f&apos;(x) &amp;lt; 0$，则 $f(x)$ 单调递减&lt;/li&gt;
 &lt;li&gt;凹凸性判别：若 $f&apos;&apos;(x) &amp;gt; 0$，则 $f(x)$ 凹；若 $f&apos;&apos;(x) &amp;lt; 0$，则 $f(x)$ 凸&lt;/li&gt;
 &lt;/ul&gt;
-</content:encoded></item><item><title>HTML入门指导</title><link>https://fairycrane.website/posts/html_guide/</link><guid isPermaLink="true">https://fairycrane.website/posts/html_guide/</guid><description>看b站课程自己做的笔记</description><pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;html学习笔记&lt;/h1&gt;
+</content:encoded></item><item><title>HTML入门指导</title><link>https://xianhe51920.github.io/posts/html_guide/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/html_guide/</guid><description>看b站课程自己做的笔记</description><pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;html学习笔记&lt;/h1&gt;
 &lt;p&gt;近期学习了html，做了一些笔记，拿出来分享一下，学过的同学可以拿来查漏补缺，没有学过的同学也可以作为入门参考。&lt;/p&gt;
 &lt;h1&gt;目录&lt;/h1&gt;
 &lt;ul&gt;
@@ -40867,7 +40867,7 @@ textarea 多行文本框也称为&lt;strong&gt;文本域&lt;/strong&gt;。&lt;/p
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content:encoded></item><item><title>markdown综合教程</title><link>https://fairycrane.website/posts/markdown_guide/</link><guid isPermaLink="true">https://fairycrane.website/posts/markdown_guide/</guid><description>一小时速成markdown</description><pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;目录&lt;/h2&gt;
+</content:encoded></item><item><title>markdown综合教程</title><link>https://xianhe51920.github.io/posts/markdown_guide/</link><guid isPermaLink="true">https://xianhe51920.github.io/posts/markdown_guide/</guid><description>一小时速成markdown</description><pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;目录&lt;/h2&gt;
 &lt;h3&gt;基础部分&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#%E4%B8%80%E6%A0%87%E9%A2%98%E8%AF%AD%E6%B3%95&quot;&gt;一.标题语法&lt;/a&gt;&lt;/li&gt;

@@ -1,0 +1,1 @@
+import{n as o}from"./snackbar.BNm4ckDT.js";import{o as a,t as n}from"./translation.BiYOeUY3.js";async function t(){if(typeof window>"u")return!1;try{return await navigator.clipboard.writeText(window.location.href),o(n(a.copySuccess),{icon:"material-symbols:link-rounded"}),!0}catch{return o(n(a.copyFailed)),!1}}export{t};

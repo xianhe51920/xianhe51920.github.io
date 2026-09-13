@@ -1,12 +1,12 @@
 # 仙鹤的学习小窝 - Full Content Archive
 
-> Generated on 2026-09-11. Contains full text of all public articles for LLM ingestion.
+> Generated on 2026-09-13. Contains full text of all public articles for LLM ingestion.
 
 ---
 
 ## 数据结构（综述）
 
-- **URL**: https://fairycrane.website/posts/data-structure/
+- **URL**: https://xianhe51920.github.io/posts/data-structure/
 - **Published**: 2026-09-08
 - **Category**: 编程
 - **Tags**: 数据结构, C语言
@@ -567,7 +567,7 @@ int Length(LinkList L){
 
 ## Java 核心与 AI 开发进阶
 
-- **URL**: https://fairycrane.website/posts/java-core-ai-advanced/
+- **URL**: https://xianhe51920.github.io/posts/java-core-ai-advanced/
 - **Published**: 2026-09-06
 - **Category**: 编程
 - **Tags**: Java, AI
@@ -3587,7 +3587,7 @@ public static void main(String[] args) {
 
 ## 物理振动（能量与合成）
 
-- **URL**: https://fairycrane.website/posts/physics-oscillation/
+- **URL**: https://xianhe51920.github.io/posts/physics-oscillation/
 - **Published**: 2026-09-06
 - **Category**: 考试
 - **Tags**: 物理, 振动, 波动
@@ -3817,7 +3817,7 @@ $$\tan\varphi = \frac{0.03\sin\frac{\pi}{3} + 0.05\sin\left(-\frac{2\pi}{3}\righ
 
 ## Java 核心与 AI 开发基础
 
-- **URL**: https://fairycrane.website/posts/java-core-ai-basic/
+- **URL**: https://xianhe51920.github.io/posts/java-core-ai-basic/
 - **Published**: 2026-09-04
 - **Category**: 编程
 - **Tags**: Java, AI
@@ -8612,7 +8612,7 @@ public static ArrayList<Student> filterStudents(ArrayList<Student> list) {
 
 ## C 语言过渡 C++
 
-- **URL**: https://fairycrane.website/posts/c-to-cpp/
+- **URL**: https://xianhe51920.github.io/posts/c-to-cpp/
 - **Published**: 2026-09-03
 - **Category**: 编程
 - **Tags**: C语言, C++
@@ -9587,7 +9587,7 @@ int* q = NULL;     // 不推荐，NULL == 0
 
 ## C++ 常用头文件
 
-- **URL**: https://fairycrane.website/posts/cpp-headers/
+- **URL**: https://xianhe51920.github.io/posts/cpp-headers/
 - **Published**: 2026-09-03
 - **Category**: 编程
 - **Tags**: C++, 头文件
@@ -10126,7 +10126,7 @@ getline(cin, s);
 
 ## Git 与 GitHub
 
-- **URL**: https://fairycrane.website/posts/git-github/
+- **URL**: https://xianhe51920.github.io/posts/git-github/
 - **Published**: 2026-08-28
 - **Category**: 笔记
 - **Tags**: Git, GitHub
@@ -10580,7 +10580,7 @@ git push -f
 
 ## C 语言
 
-- **URL**: https://fairycrane.website/posts/c-language/
+- **URL**: https://xianhe51920.github.io/posts/c-language/
 - **Published**: 2026-08-23
 - **Category**: 编程
 - **Tags**: C语言
@@ -18047,7 +18047,7 @@ void add_person(const char* name, const char* phone)
 
 ## 线性代数笔记
 
-- **URL**: https://fairycrane.website/posts/linear-algebra/
+- **URL**: https://xianhe51920.github.io/posts/linear-algebra/
 - **Published**: 2026-08-22
 - **Category**: 考试
 - **Tags**: 线代
@@ -21146,7 +21146,7 @@ $$\boldsymbol{-\sqrt{2}<t<\sqrt{2}}$$
 
 ## 概率论与数理统计
 
-- **URL**: https://fairycrane.website/posts/probability-statistics/
+- **URL**: https://xianhe51920.github.io/posts/probability-statistics/
 - **Published**: 2026-06-30
 - **Category**: 考试
 - **Tags**: 概率论, 数理统计
@@ -21418,7 +21418,7 @@ $$P\{\text{5 次试验中命中 2 次}\}=P_{5}(2)=C_{5}^{2}\cdot p^{2}\cdot(1-p)
 
 ## 线性代数公式要点
 
-- **URL**: https://fairycrane.website/posts/linear-algebra-formulas/
+- **URL**: https://xianhe51920.github.io/posts/linear-algebra-formulas/
 - **Published**: 2026-06-23
 - **Category**: 考试
 - **Tags**: 线代, 公式
@@ -21766,7 +21766,7 @@ $$P\{\text{5 次试验中命中 2 次}\}=P_{5}(2)=C_{5}^{2}\cdot p^{2}\cdot(1-p)
 
 ## 大学物理B1
 
-- **URL**: https://fairycrane.website/posts/physics-b1/
+- **URL**: https://xianhe51920.github.io/posts/physics-b1/
 - **Published**: 2026-06-22
 - **Category**: 考试
 - **Tags**: 物理, 力学, 电磁
@@ -24566,7 +24566,7 @@ D. $\oint_l \vec{H} \cdot d\vec{l} = \iint_S \left( \vec{j} + \frac{\partial \ve
 
 ## 大物B1公式要点速览
 
-- **URL**: https://fairycrane.website/posts/physics-b1-formulas/
+- **URL**: https://xianhe51920.github.io/posts/physics-b1-formulas/
 - **Published**: 2026-06-22
 - **Category**: 考试
 - **Tags**: 物理, 公式
@@ -24855,7 +24855,7 @@ D. $\oint_l \vec{H} \cdot d\vec{l} = \iint_S \left( \vec{j} + \frac{\partial \ve
 
 ## 响应式布局
 
-- **URL**: https://fairycrane.website/posts/response/
+- **URL**: https://xianhe51920.github.io/posts/response/
 - **Published**: 2026-06-15
 - **Category**: 前端
 - **Tags**: 笔记, CSS, 响应式
@@ -25988,7 +25988,7 @@ mask-image: linear-gradient(45deg, #FF6B6B, #4ECDC4);
 
 ## css移动网页开发
 
-- **URL**: https://fairycrane.website/posts/mobile_pages/
+- **URL**: https://xianhe51920.github.io/posts/mobile_pages/
 - **Published**: 2026-06-10
 - **Category**: 前端
 - **Tags**: 笔记, CSS, 移动端
@@ -26188,7 +26188,7 @@ rem值 = 设计稿元素尺寸 / html的font-size（**基准值**）
 
 ## css前沿技术拓展
 
-- **URL**: https://fairycrane.website/posts/frontier_expansion/
+- **URL**: https://xianhe51920.github.io/posts/frontier_expansion/
 - **Published**: 2026-06-07
 - **Category**: 前端
 - **Tags**: 笔记, CSS
@@ -26526,7 +26526,7 @@ vh（viewport height）：表示视口高度的`1%`
 
 ## 交互动效设计
 
-- **URL**: https://fairycrane.website/posts/interaction/
+- **URL**: https://xianhe51920.github.io/posts/interaction/
 - **Published**: 2026-06-06
 - **Category**: 前端
 - **Tags**: 笔记, CSS, 交互动效
@@ -26973,7 +26973,7 @@ animation: move 1s steps(8) infinite;
 
 ## 现代网页布局
 
-- **URL**: https://fairycrane.website/posts/page_layouts/
+- **URL**: https://xianhe51920.github.io/posts/page_layouts/
 - **Published**: 2026-06-03
 - **Category**: 前端
 - **Tags**: 笔记, CSS, 现代网页布局
@@ -28251,7 +28251,7 @@ img {
 
 ## CSS基础知识入门
 
-- **URL**: https://fairycrane.website/posts/css_base/
+- **URL**: https://xianhe51920.github.io/posts/css_base/
 - **Published**: 2026-06-01
 - **Category**: 前端
 - **Tags**: 笔记, CSS
@@ -30529,7 +30529,7 @@ graph LR
 
 ## 用C语言实现扫雷的扩散逻辑
 
-- **URL**: https://fairycrane.website/posts/mysweeper/
+- **URL**: https://xianhe51920.github.io/posts/mysweeper/
 - **Published**: 2026-05-03
 - **Category**: 编程
 - **Tags**: C语言, 分享感悟
@@ -30586,7 +30586,7 @@ void AutoFind(char mine[][COLS], char show[][COLS], int row, int col, int x, int
 
 ## python竞赛常用模块总结
 
-- **URL**: https://fairycrane.website/posts/py_mod/
+- **URL**: https://xianhe51920.github.io/posts/py_mod/
 - **Published**: 2026-01-31
 - **Category**: 笔记
 - **Tags**: python, 竞赛
@@ -30992,7 +30992,7 @@ all(map(str.isalpha, 'abc')) # True
 
 ## 大一上数学公式整理
 
-- **URL**: https://fairycrane.website/posts/math_guide/
+- **URL**: https://xianhe51920.github.io/posts/math_guide/
 - **Published**: 2026-01-20
 - **Category**: 考试
 - **Tags**: 数学, 笔记分享
@@ -31227,7 +31227,7 @@ $$ \arcsin x = x + \frac{1}{6}x^3 + \frac{3}{40}x^5 + \cdots + o(x^{2n+1}) $$
 
 ## HTML入门指导
 
-- **URL**: https://fairycrane.website/posts/html_guide/
+- **URL**: https://xianhe51920.github.io/posts/html_guide/
 - **Published**: 2026-01-18
 - **Category**: 前端
 - **Tags**: 笔记, HTML
@@ -32502,7 +32502,7 @@ HTML `<button>` 标签定义一个按钮，元素内部可以放置内容，比�
 
 ## markdown综合教程
 
-- **URL**: https://fairycrane.website/posts/markdown_guide/
+- **URL**: https://xianhe51920.github.io/posts/markdown_guide/
 - **Published**: 2025-12-29
 - **Category**: 教程
 - **Tags**: 教程, markdown

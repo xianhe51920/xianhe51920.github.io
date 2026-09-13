@@ -5,35 +5,35 @@
 This is the llms.txt file for 仙鹤的学习小窝. It provides a machine-readable directory of published articles and core pages for Large Language Models.
 
 ## Core Pages
-- [Home](https://fairycrane.website/): Main blog entrance and latest post stream.
-- [About](https://fairycrane.website/about/): Author profile, technical stack, and background.
-- [Archive](https://fairycrane.website/archive/): Chronological index of all published writings.
+- [Home](https://xianhe51920.github.io/): Main blog entrance and latest post stream.
+- [About](https://xianhe51920.github.io/about/): Author profile, technical stack, and background.
+- [Archive](https://xianhe51920.github.io/archive/): Chronological index of all published writings.
 
 ## Articles
-- [数据结构（综述）](https://fairycrane.website/posts/data-structure/): 数据结构：基本概念、顺序表、链表
-- [Java 核心与 AI 开发进阶](https://fairycrane.website/posts/java-core-ai-advanced/): Java 核心与 AI 开发进阶
-- [物理振动（能量与合成）](https://fairycrane.website/posts/physics-oscillation/): 大二物理：振动方程、能量与合成
-- [Java 核心与 AI 开发基础](https://fairycrane.website/posts/java-core-ai-basic/): Java 核心语法与 AI 开发基础
-- [C 语言过渡 C++](https://fairycrane.website/posts/c-to-cpp/): 从 C 过渡到 C++
-- [C++ 常用头文件](https://fairycrane.website/posts/cpp-headers/): C++ 常用头文件知识
-- [Git 与 GitHub](https://fairycrane.website/posts/git-github/): Git 与 GitHub 入门与常用命令
-- [C 语言](https://fairycrane.website/posts/c-language/): C 语言学习笔记
-- [线性代数笔记](https://fairycrane.website/posts/linear-algebra/): 大一下线代：线性代数
-- [概率论与数理统计](https://fairycrane.website/posts/probability-statistics/): 大二上概率论与数理统计
-- [线性代数公式要点](https://fairycrane.website/posts/linear-algebra-formulas/): 大一下线代：公式要点速览
-- [大学物理B1](https://fairycrane.website/posts/physics-b1/): 大一下物理：大学物理 B1
-- [大物B1公式要点速览](https://fairycrane.website/posts/physics-b1-formulas/): 大一下物理 B1 公式要点速览
-- [响应式布局](https://fairycrane.website/posts/response/): 媒体查询，bootstrap
-- [css移动网页开发](https://fairycrane.website/posts/mobile_pages/): 移动端基础知识，vw/vm适配，rem适配
-- [css前沿技术拓展](https://fairycrane.website/posts/frontier_expansion/): 包含SVG图片,裁剪，时间线等知识
-- [交互动效设计](https://fairycrane.website/posts/interaction/): CSS交互动效知识
-- [现代网页布局](https://fairycrane.website/posts/page_layouts/): 正常布局，模式转换布局，弹性布局，定位布局，网格布局，多列布局
-- [CSS基础知识入门](https://fairycrane.website/posts/css_base/): 包含选择器，盒子模型等css基础知识
-- [用C语言实现扫雷的扩散逻辑](https://fairycrane.website/posts/mysweeper/): 复盘一下设计逻辑
-- [python竞赛常用模块总结](https://fairycrane.website/posts/py_mod/): python竞赛常用模块总结
-- [大一上数学公式整理](https://fairycrane.website/posts/math_guide/): 方便复习的同学快速查阅
-- [HTML入门指导](https://fairycrane.website/posts/html_guide/): 看b站课程自己做的笔记
-- [markdown综合教程](https://fairycrane.website/posts/markdown_guide/): 一小时速成markdown
+- [数据结构（综述）](https://xianhe51920.github.io/posts/data-structure/): 数据结构：基本概念、顺序表、链表
+- [Java 核心与 AI 开发进阶](https://xianhe51920.github.io/posts/java-core-ai-advanced/): Java 核心与 AI 开发进阶
+- [物理振动（能量与合成）](https://xianhe51920.github.io/posts/physics-oscillation/): 大二物理：振动方程、能量与合成
+- [Java 核心与 AI 开发基础](https://xianhe51920.github.io/posts/java-core-ai-basic/): Java 核心语法与 AI 开发基础
+- [C 语言过渡 C++](https://xianhe51920.github.io/posts/c-to-cpp/): 从 C 过渡到 C++
+- [C++ 常用头文件](https://xianhe51920.github.io/posts/cpp-headers/): C++ 常用头文件知识
+- [Git 与 GitHub](https://xianhe51920.github.io/posts/git-github/): Git 与 GitHub 入门与常用命令
+- [C 语言](https://xianhe51920.github.io/posts/c-language/): C 语言学习笔记
+- [线性代数笔记](https://xianhe51920.github.io/posts/linear-algebra/): 大一下线代：线性代数
+- [概率论与数理统计](https://xianhe51920.github.io/posts/probability-statistics/): 大二上概率论与数理统计
+- [线性代数公式要点](https://xianhe51920.github.io/posts/linear-algebra-formulas/): 大一下线代：公式要点速览
+- [大学物理B1](https://xianhe51920.github.io/posts/physics-b1/): 大一下物理：大学物理 B1
+- [大物B1公式要点速览](https://xianhe51920.github.io/posts/physics-b1-formulas/): 大一下物理 B1 公式要点速览
+- [响应式布局](https://xianhe51920.github.io/posts/response/): 媒体查询，bootstrap
+- [css移动网页开发](https://xianhe51920.github.io/posts/mobile_pages/): 移动端基础知识，vw/vm适配，rem适配
+- [css前沿技术拓展](https://xianhe51920.github.io/posts/frontier_expansion/): 包含SVG图片,裁剪，时间线等知识
+- [交互动效设计](https://xianhe51920.github.io/posts/interaction/): CSS交互动效知识
+- [现代网页布局](https://xianhe51920.github.io/posts/page_layouts/): 正常布局，模式转换布局，弹性布局，定位布局，网格布局，多列布局
+- [CSS基础知识入门](https://xianhe51920.github.io/posts/css_base/): 包含选择器，盒子模型等css基础知识
+- [用C语言实现扫雷的扩散逻辑](https://xianhe51920.github.io/posts/mysweeper/): 复盘一下设计逻辑
+- [python竞赛常用模块总结](https://xianhe51920.github.io/posts/py_mod/): python竞赛常用模块总结
+- [大一上数学公式整理](https://xianhe51920.github.io/posts/math_guide/): 方便复习的同学快速查阅
+- [HTML入门指导](https://xianhe51920.github.io/posts/html_guide/): 看b站课程自己做的笔记
+- [markdown综合教程](https://xianhe51920.github.io/posts/markdown_guide/): 一小时速成markdown
 
 ## Full Text Dump
-- [Full Text Archive](https://fairycrane.website/llms-full.txt): Complete, concatenated Markdown content of all public articles for full-context ingestion.
+- [Full Text Archive](https://xianhe51920.github.io/llms-full.txt): Complete, concatenated Markdown content of all public articles for full-context ingestion.

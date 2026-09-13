@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh_CN">
   <title>仙鹤的学习小窝</title>
   <subtitle>坚持学习，无限进步</subtitle>
-  <link href="https://fairycrane.website/" rel="alternate" type="text/html"/>
-  <link href="https://fairycrane.website/atom.xml" rel="self" type="application/atom+xml"/>
-  <id>https://fairycrane.website/</id>
+  <link href="https://xianhe51920.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://xianhe51920.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <id>https://xianhe51920.github.io/</id>
   <updated>2026-09-08T00:00:00.000Z</updated>
   <entry>
     <title>数据结构（综述）</title>
-    <link href="https://fairycrane.website/posts/data-structure/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/data-structure/</id>
+    <link href="https://xianhe51920.github.io/posts/data-structure/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/data-structure/</id>
     <published>2026-09-08T00:00:00.000Z</published>
     <updated>2026-09-08T00:00:00.000Z</updated>
     <summary>数据结构：基本概念、顺序表、链表</summary>
@@ -834,8 +834,8 @@ p-&gt;data = e;            // p 覆盖为 e
   </entry>
   <entry>
     <title>Java 核心与 AI 开发进阶</title>
-    <link href="https://fairycrane.website/posts/java-core-ai-advanced/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/java-core-ai-advanced/</id>
+    <link href="https://xianhe51920.github.io/posts/java-core-ai-advanced/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/java-core-ai-advanced/</id>
     <published>2026-09-06T00:00:00.000Z</published>
     <updated>2026-09-06T00:00:00.000Z</updated>
     <summary>Java 核心与 AI 开发进阶</summary>
@@ -5767,8 +5767,8 @@ public static void main(String[] args) {
   </entry>
   <entry>
     <title>物理振动（能量与合成）</title>
-    <link href="https://fairycrane.website/posts/physics-oscillation/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/physics-oscillation/</id>
+    <link href="https://xianhe51920.github.io/posts/physics-oscillation/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/physics-oscillation/</id>
     <published>2026-09-06T00:00:00.000Z</published>
     <updated>2026-09-06T00:00:00.000Z</updated>
     <summary>大二物理：振动方程、能量与合成</summary>
@@ -6004,8 +6004,8 @@ public static void main(String[] args) {
   </entry>
   <entry>
     <title>Java 核心与 AI 开发基础</title>
-    <link href="https://fairycrane.website/posts/java-core-ai-basic/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/java-core-ai-basic/</id>
+    <link href="https://xianhe51920.github.io/posts/java-core-ai-basic/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/java-core-ai-basic/</id>
     <published>2026-09-04T00:00:00.000Z</published>
     <updated>2026-09-04T00:00:00.000Z</updated>
     <summary>Java 核心语法与 AI 开发基础</summary>
@@ -13179,8 +13179,8 @@ while (it.hasNext()) {
   </entry>
   <entry>
     <title>C 语言过渡 C++</title>
-    <link href="https://fairycrane.website/posts/c-to-cpp/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/c-to-cpp/</id>
+    <link href="https://xianhe51920.github.io/posts/c-to-cpp/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/c-to-cpp/</id>
     <published>2026-09-03T00:00:00.000Z</published>
     <updated>2026-09-03T00:00:00.000Z</updated>
     <summary>从 C 过渡到 C++</summary>
@@ -14579,8 +14579,8 @@ int* q = NULL;     // 不推荐，NULL == 0
   </entry>
   <entry>
     <title>C++ 常用头文件</title>
-    <link href="https://fairycrane.website/posts/cpp-headers/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/cpp-headers/</id>
+    <link href="https://xianhe51920.github.io/posts/cpp-headers/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/cpp-headers/</id>
     <published>2026-09-03T00:00:00.000Z</published>
     <updated>2026-09-03T00:00:00.000Z</updated>
     <summary>C++ 常用头文件知识</summary>
@@ -15728,8 +15728,8 @@ getline(cin, s);
   </entry>
   <entry>
     <title>Git 与 GitHub</title>
-    <link href="https://fairycrane.website/posts/git-github/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/git-github/</id>
+    <link href="https://xianhe51920.github.io/posts/git-github/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/git-github/</id>
     <published>2026-08-28T00:00:00.000Z</published>
     <updated>2026-08-28T00:00:00.000Z</updated>
     <summary>Git 与 GitHub 入门与常用命令</summary>
@@ -16189,8 +16189,8 @@ git push -f
   </entry>
   <entry>
     <title>C 语言</title>
-    <link href="https://fairycrane.website/posts/c-language/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/c-language/</id>
+    <link href="https://xianhe51920.github.io/posts/c-language/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/c-language/</id>
     <published>2026-08-23T00:00:00.000Z</published>
     <updated>2026-08-23T00:00:00.000Z</updated>
     <summary>C 语言学习笔记</summary>
@@ -24162,8 +24162,8 @@ void add_person(const char* name, const char* phone)
   </entry>
   <entry>
     <title>线性代数笔记</title>
-    <link href="https://fairycrane.website/posts/linear-algebra/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/linear-algebra/</id>
+    <link href="https://xianhe51920.github.io/posts/linear-algebra/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/linear-algebra/</id>
     <published>2026-08-22T00:00:00.000Z</published>
     <updated>2026-08-22T00:00:00.000Z</updated>
     <summary>大一下线代：线性代数</summary>
@@ -27576,8 +27576,8 @@ $$\boldsymbol{-\sqrt{2}&lt;t&lt;\sqrt{2}}$$</p>
   </entry>
   <entry>
     <title>概率论与数理统计</title>
-    <link href="https://fairycrane.website/posts/probability-statistics/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/probability-statistics/</id>
+    <link href="https://xianhe51920.github.io/posts/probability-statistics/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/probability-statistics/</id>
     <published>2026-06-30T00:00:00.000Z</published>
     <updated>2026-06-30T00:00:00.000Z</updated>
     <summary>大二上概率论与数理统计</summary>
@@ -27761,8 +27761,8 @@ $$\boldsymbol{-\sqrt{2}&lt;t&lt;\sqrt{2}}$$</p>
   </entry>
   <entry>
     <title>线性代数公式要点</title>
-    <link href="https://fairycrane.website/posts/linear-algebra-formulas/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/linear-algebra-formulas/</id>
+    <link href="https://xianhe51920.github.io/posts/linear-algebra-formulas/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/linear-algebra-formulas/</id>
     <published>2026-06-23T00:00:00.000Z</published>
     <updated>2026-06-23T00:00:00.000Z</updated>
     <summary>大一下线代：公式要点速览</summary>
@@ -28370,8 +28370,8 @@ $$\boldsymbol{-\sqrt{2}&lt;t&lt;\sqrt{2}}$$</p>
   </entry>
   <entry>
     <title>大学物理B1</title>
-    <link href="https://fairycrane.website/posts/physics-b1/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/physics-b1/</id>
+    <link href="https://xianhe51920.github.io/posts/physics-b1/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/physics-b1/</id>
     <published>2026-06-22T00:00:00.000Z</published>
     <updated>2026-06-22T00:00:00.000Z</updated>
     <summary>大一下物理：大学物理 B1</summary>
@@ -30582,8 +30582,8 @@ $$\oint \vec{E} \cdot d\vec{l} = -\frac{d\Phi}{dt} = -\iint_S \frac{\partial \ve
   </entry>
   <entry>
     <title>大物B1公式要点速览</title>
-    <link href="https://fairycrane.website/posts/physics-b1-formulas/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/physics-b1-formulas/</id>
+    <link href="https://xianhe51920.github.io/posts/physics-b1-formulas/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/physics-b1-formulas/</id>
     <published>2026-06-22T00:00:00.000Z</published>
     <updated>2026-06-22T00:00:00.000Z</updated>
     <summary>大一下物理 B1 公式要点速览</summary>
@@ -31566,8 +31566,8 @@ $$\oint \vec{E} \cdot d\vec{l} = -\frac{d\Phi}{dt} = -\iint_S \frac{\partial \ve
   </entry>
   <entry>
     <title>响应式布局</title>
-    <link href="https://fairycrane.website/posts/response/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/response/</id>
+    <link href="https://xianhe51920.github.io/posts/response/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/response/</id>
     <published>2026-06-15T00:00:00.000Z</published>
     <updated>2026-06-15T00:00:00.000Z</updated>
     <summary>媒体查询，bootstrap</summary>
@@ -33056,8 +33056,8 @@ mask-image: linear-gradient(45deg, #FF6B6B, #4ECDC4);
   </entry>
   <entry>
     <title>css移动网页开发</title>
-    <link href="https://fairycrane.website/posts/mobile_pages/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/mobile_pages/</id>
+    <link href="https://xianhe51920.github.io/posts/mobile_pages/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/mobile_pages/</id>
     <published>2026-06-10T00:00:00.000Z</published>
     <updated>2026-06-10T00:00:00.000Z</updated>
     <summary>移动端基础知识，vw/vm适配，rem适配</summary>
@@ -33323,8 +33323,8 @@ rem值 = 设计稿元素尺寸 / html的font-size（<strong>基准值</strong>�
   </entry>
   <entry>
     <title>css前沿技术拓展</title>
-    <link href="https://fairycrane.website/posts/frontier_expansion/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/frontier_expansion/</id>
+    <link href="https://xianhe51920.github.io/posts/frontier_expansion/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/frontier_expansion/</id>
     <published>2026-06-07T00:00:00.000Z</published>
     <updated>2026-06-07T00:00:00.000Z</updated>
     <summary>包含SVG图片,裁剪，时间线等知识</summary>
@@ -33784,8 +33784,8 @@ vh（viewport height）：表示视口高度的<code>1%</code></p>
   </entry>
   <entry>
     <title>交互动效设计</title>
-    <link href="https://fairycrane.website/posts/interaction/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/interaction/</id>
+    <link href="https://xianhe51920.github.io/posts/interaction/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/interaction/</id>
     <published>2026-06-06T00:00:00.000Z</published>
     <updated>2026-06-06T00:00:00.000Z</updated>
     <summary>CSS交互动效知识</summary>
@@ -34341,8 +34341,8 @@ vh（viewport height）：表示视口高度的<code>1%</code></p>
   </entry>
   <entry>
     <title>现代网页布局</title>
-    <link href="https://fairycrane.website/posts/page_layouts/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/page_layouts/</id>
+    <link href="https://xianhe51920.github.io/posts/page_layouts/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/page_layouts/</id>
     <published>2026-06-03T00:00:00.000Z</published>
     <updated>2026-06-03T00:00:00.000Z</updated>
     <summary>正常布局，模式转换布局，弹性布局，定位布局，网格布局，多列布局</summary>
@@ -36162,8 +36162,8 @@ img {
   </entry>
   <entry>
     <title>CSS基础知识入门</title>
-    <link href="https://fairycrane.website/posts/css_base/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/css_base/</id>
+    <link href="https://xianhe51920.github.io/posts/css_base/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/css_base/</id>
     <published>2026-06-01T00:00:00.000Z</published>
     <updated>2026-06-01T00:00:00.000Z</updated>
     <summary>包含选择器，盒子模型等css基础知识</summary>
@@ -38440,8 +38440,8 @@ Vue 官网等项目就引入了该 CSS 文件。</p>
   </entry>
   <entry>
     <title>用C语言实现扫雷的扩散逻辑</title>
-    <link href="https://fairycrane.website/posts/mysweeper/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/mysweeper/</id>
+    <link href="https://xianhe51920.github.io/posts/mysweeper/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/mysweeper/</id>
     <published>2026-05-03T00:00:00.000Z</published>
     <updated>2026-05-03T00:00:00.000Z</updated>
     <summary>复盘一下设计逻辑</summary>
@@ -38494,8 +38494,8 @@ void AutoFind(char mine[][COLS], char show[][COLS], int row, int col, int x, int
   </entry>
   <entry>
     <title>python竞赛常用模块总结</title>
-    <link href="https://fairycrane.website/posts/py_mod/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/py_mod/</id>
+    <link href="https://xianhe51920.github.io/posts/py_mod/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/py_mod/</id>
     <published>2026-01-31T12:00:00.000Z</published>
     <updated>2026-01-31T12:00:00.000Z</updated>
     <summary>python竞赛常用模块总结</summary>
@@ -39290,8 +39290,8 @@ all(map(str.isalpha, 'abc')) # True
   </entry>
   <entry>
     <title>大一上数学公式整理</title>
-    <link href="https://fairycrane.website/posts/math_guide/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/math_guide/</id>
+    <link href="https://xianhe51920.github.io/posts/math_guide/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/math_guide/</id>
     <published>2026-01-20T00:00:00.000Z</published>
     <updated>2026-01-20T00:00:00.000Z</updated>
     <summary>方便复习的同学快速查阅</summary>
@@ -39526,8 +39526,8 @@ $$ \arcsin x = x + \frac{1}{6}x^3 + \frac{3}{40}x^5 + \cdots + o(x^{2n+1}) $$</p
   </entry>
   <entry>
     <title>HTML入门指导</title>
-    <link href="https://fairycrane.website/posts/html_guide/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/html_guide/</id>
+    <link href="https://xianhe51920.github.io/posts/html_guide/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/html_guide/</id>
     <published>2026-01-18T00:00:00.000Z</published>
     <updated>2026-01-18T00:00:00.000Z</updated>
     <summary>看b站课程自己做的笔记</summary>
@@ -41130,8 +41130,8 @@ textarea 多行文本框也称为<strong>文本域</strong>。</p>
   </entry>
   <entry>
     <title>markdown综合教程</title>
-    <link href="https://fairycrane.website/posts/markdown_guide/" rel="alternate" type="text/html"/>
-    <id>https://fairycrane.website/posts/markdown_guide/</id>
+    <link href="https://xianhe51920.github.io/posts/markdown_guide/" rel="alternate" type="text/html"/>
+    <id>https://xianhe51920.github.io/posts/markdown_guide/</id>
     <published>2025-12-29T00:00:00.000Z</published>
     <updated>2025-12-29T00:00:00.000Z</updated>
     <summary>一小时速成markdown</summary>

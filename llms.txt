@@ -12,7 +12,7 @@ This is the llms.txt file for 仙鹤的学习小窝. It provides a machine-reada
 ## Articles
 - [数据结构（综述）](https://xianhe51920.github.io/posts/data-structure/): 数据结构：基本概念、顺序表、链表
 - [Java 核心与 AI 开发进阶](https://xianhe51920.github.io/posts/java-core-ai-advanced/): Java 核心与 AI 开发进阶
-- [物理振动（能量与合成）](https://xianhe51920.github.io/posts/physics-oscillation/): 大二物理：振动方程、能量与合成
+- [大二上物理](https://xianhe51920.github.io/posts/physics-oscillation/): 大二物理：振动方程、能量与合成、机械波
 - [Java 核心与 AI 开发基础](https://xianhe51920.github.io/posts/java-core-ai-basic/): Java 核心语法与 AI 开发基础
 - [C 语言过渡 C++](https://xianhe51920.github.io/posts/c-to-cpp/): 从 C 过渡到 C++
 - [C++ 常用头文件](https://xianhe51920.github.io/posts/cpp-headers/): C++ 常用头文件知识

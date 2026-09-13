@@ -1,0 +1,8 @@
+<!DOCTYPE html><meta charset="utf-8"><script type="module" src="/_astro/page.DV2quqEU.js"></script><section><h1 id="page-scope">Page Scope<a class="anchor" href="#page-scope"><span class="anchor-icon" data-pagefind-ignore="">#</span></a></h1><ul>
+<li>Keep route files thin: load/shape route data, choose the correct <code>page</code> identifier, pass page data into <code>MainGridLayout</code>, and delegate presentation to components. Read <code>src/config/README.md</code> before changing configuration-driven page behavior.</li>
+<li>Use an existing <code>SidebarPage</code> value from <code>src/types/sidebarConfig.ts</code>; when a genuinely new page class is introduced, update the type, sidebar filtering, and focused tests together. Keep visible route copy in i18n rather than hard-coded strings.</li>
+<li>Preserve SSR output for titles, descriptions, metadata, and accessible names. Add a Svelte hydration directive only for behavior that cannot run in SSR. On SSR-only routes, use <code>astro-icon</code> for icons.</li>
+<li>Components outside <code>#swup-container</code> persist across navigation. Any Banner, sidebar, top-bar, or other shell state that depends on the current page must synchronize on Swup lifecycle events and be tested on both direct refresh and client navigation.</li>
+<li>Keep endpoint routes such as RSS, robots, and sitemap build/server-only; do not introduce browser hydration there. For album detail routes, encrypt protected photo payloads before emitting them and never expose the plaintext protected manifest in SSR HTML.</li>
+<li>After route changes, run the focused page fragment and <code>tests/site/a11y.spec.ts</code>; include a Swup navigation assertion when the change affects persistent shell state.</li>
+</ul></section>

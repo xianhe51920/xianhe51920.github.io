@@ -1,0 +1,1 @@
+var t=".m3-spoiler[data-spoiler]",r=new WeakSet;function n(e,i){e.setAttribute("aria-expanded",String(i))}function a(e){r.has(e)||(r.add(e),e.addEventListener("click",()=>{n(e,e.getAttribute("aria-expanded")!=="true")}))}function d(e=document){typeof document>"u"||e.querySelectorAll(t).forEach(a)}export{d as initSpoilers};

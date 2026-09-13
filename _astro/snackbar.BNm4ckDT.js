@@ -1,0 +1,1 @@
+var c="m3e:snackbar";function t(i,n){if(typeof window>"u")return;const a={message:i};n?.action&&(a.action=n.action),n?.icon&&(a.icon=n.icon),window.dispatchEvent(new CustomEvent(c,{detail:a}))}export{t as n,c as t};

@@ -1,0 +1,1 @@
+import{t as o}from"./fancybox-runtime.DQmovZ6h.js";import{n as t}from"./layout-mode.Cwaj6VVI.js";o();var e=()=>{window.swup.hooks.on("content:replace",()=>{t(document.getElementById("post-list"))})};window.swup?e():document.addEventListener("swup:enable",e);

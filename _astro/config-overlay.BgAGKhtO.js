@@ -1,0 +1,1 @@
+var f={};function o(n){return typeof n=="object"&&n!==null&&!Array.isArray(n)}function c(n,r){if(!o(n)||!o(r))return r;const t={...n};for(const[e,i]of Object.entries(r))t[e]=e in n?c(n[e],i):i;return t}function u(n,r){const t=f[n];return t===void 0?r:c(r,t)}function s(n){return f[n]}export{u as n,s as t};

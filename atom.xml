@@ -6026,10 +6026,7 @@ public static void main(String[] args) {
 </table>
 <h3>1. 认识机械波</h3>
 <p><strong>机械波的形成：</strong> 波源振动带动相邻质点依次振动，振动形式在介质中由近及远传播。介质中各质点只在自己的平衡位置附近振动，<strong>不随波迁移</strong>，传播的是振动形式和能量。</p>
-<p>&lt;figure&gt;
-&lt;img src="/images/posts/physics-oscillation/assets/3-1-横波形成与传播.svg" alt="横波的形成与传播：绳上质点上下振动、波形向右传播" style="width:30vw;display:block;margin:0 auto;"/&gt;
-&lt;figcaption style="text-align:center;font-size:0.9em;color:#666;"&gt;绳上各质点上下振动，波形沿 +x 方向传播；右为质点振动图 x-t&lt;/figcaption&gt;
-&lt;/figure&gt;</p>
+<p>&lt;img src="/images/posts/physics-oscillation/assets/3-1-横波形成与传播.svg" alt="横波的形成与传播：绳上质点上下振动、波形向右传播，图中标出波长 λ、振动周期 T 与振幅 A" style="width:30vw;display:block;margin:0 auto;"/&gt;</p>
 <p><strong>波速、波长、周期的关系：</strong></p>
 <p>$$u = \frac{\lambda}{T} = \lambda \nu$$</p>
 <ul>
@@ -6049,10 +6046,7 @@ public static void main(String[] args) {
 <p>$$y = A\cos\left[\omega\left(t - \frac{x}{u}\right) + \varphi_0\right] = A\cos\left[2\pi\left(\nu t - \frac{x}{\lambda}\right) + \varphi_0\right] = A\cos\left[\omega t + \varphi_0 - \frac{2\pi}{\lambda}x\right]$$</p>
 <p>若波沿 $-x$ 方向传播，$x$ 处质点的振动比 $O$ 点<strong>超前</strong>，则</p>
 <p>$$y = A\cos\left[\omega\left(t + \frac{x}{u}\right) + \varphi_0\right] = A\cos\left[2\pi\left(\nu t + \frac{x}{\lambda}\right) + \varphi_0\right] = A\cos\left[\omega t + \varphi_0 + \frac{2\pi}{\lambda}x\right]$$</p>
-<p>&lt;figure&gt;
-&lt;img src="/images/posts/physics-oscillation/assets/3-2-波动方程推导.svg" alt="波动方程推导：波形图与波速方向" style="width:30vw;display:block;margin:0 auto;"/&gt;
-&lt;figcaption style="text-align:center;font-size:0.9em;color:#666;"&gt;t=0 时刻的波形图，波沿 +x 传播，$x$ 处质点相位落后于原点&lt;/figcaption&gt;
-&lt;/figure&gt;</p>
+<p>&lt;img src="/images/posts/physics-oscillation/assets/3-2-波动方程推导.svg" alt="t=0 时刻波形图，y 轴标 A 与 -A，x 轴标波长 λ 与质点距离 x，波沿 +x 传播" style="width:30vw;display:block;margin:0 auto;"/&gt;</p>
 <blockquote>
 <p>[!warning] 易错点
 判断传播方向时，"上坡下、下坡上"：在波形图上升段（沿波传播方向）质点向下振动，下降段质点向上振动。</p>
@@ -6097,10 +6091,7 @@ public static void main(String[] args) {
 <p>（1）$O$ 点的振动方程；</p>
 <p>（2）该波的波动方程；</p>
 <p>（3）$x = 60,\text{m}$ 处质点的振动方程和速度表达式。</p>
-<p>&lt;figure&gt;
-&lt;img src="/images/posts/physics-oscillation/assets/3-3-波形图-沿x正向.svg" alt="t=0 时沿 +x 传播的波形图，A=0.1m，λ=40m" style="width:30vw;display:block;margin:0 auto;"/&gt;
-&lt;figcaption style="text-align:center;font-size:0.9em;color:#666;"&gt;t=0 时刻波形图：A=10cm，λ=40m，波沿 +x 传播&lt;/figcaption&gt;
-&lt;/figure&gt;</p>
+<p>&lt;img src="/images/posts/physics-oscillation/assets/3-3-波形图-沿x正向.svg" alt="t=0 波形图，y 轴刻度 10/0/-10 cm，x 轴刻度 0~50 m，波长 λ=40 m，波沿 +x 传播" style="width:30vw;display:block;margin:0 auto;"/&gt;</p>
 <p><strong>解：</strong></p>
 <p>（1）振幅 $A = 0.1,\text{m}$，$\omega = \dfrac{2\pi}{T} = \dfrac{2\pi}{2} = \pi\ \text{rad/s}$</p>
 <p>由旋转矢量法得 $\varphi_0 = -\dfrac{2\pi}{3}$（$t=0$ 时原点位移为负、且向 $-y$ 方向运动），故</p>
@@ -6116,10 +6107,7 @@ public static void main(String[] args) {
 <p>（1）原点 $O$ 的质点的振动方程；</p>
 <p>（2）该波的波动方程；</p>
 <p>（3）$x = 20,\text{m}$ 处质点的振动方程。</p>
-<p>&lt;figure&gt;
-&lt;img src="/images/posts/physics-oscillation/assets/3-4-波形图-沿x负向.svg" alt="原点振动曲线 T=8s，A=4cm，波沿 -x 传播" style="width:30vw;display:block;margin:0 auto;"/&gt;
-&lt;figcaption style="text-align:center;font-size:0.9em;color:#666;"&gt;原点振动曲线：A=4cm，T=8s；波沿 -x 方向传播，u=2m/s&lt;/figcaption&gt;
-&lt;/figure&gt;</p>
+<p>&lt;img src="/images/posts/physics-oscillation/assets/3-4-波形图-沿x负向.svg" alt="原点振动曲线，y 轴刻度 4/0/-4 cm，t 轴刻度 0~10 s，周期 T=8 s，波沿 -x 传播" style="width:30vw;display:block;margin:0 auto;"/&gt;</p>
 <p><strong>解：</strong></p>
 <p>（1）振幅 $A = 4\times10^{-2},\text{m}$，周期 $T = 8,\text{s}$，$\omega = \dfrac{2\pi}{T} = \dfrac{2\pi}{8} = \dfrac{\pi}{4}\ \text{rad/s}$</p>
 <p>由旋转矢量法得 $\varphi_0 = -\dfrac{\pi}{2}$，故</p>

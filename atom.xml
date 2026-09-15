@@ -27890,6 +27890,206 @@ $$\boldsymbol{-\sqrt{2}&lt;t&lt;\sqrt{2}}$$</p>
 <p><strong>【解】</strong> 5 次独立重复射击，$p=0.8$，则：</p>
 <p>$$P{\text{5 次试验中命中 2 次}}=P_{5}(2)=C_{5}^{2}\cdot p^{2}\cdot(1-p)^{3}=C_{5}^{2}\cdot 0.8^{2}\cdot 0.2^{3}$$</p>
 <hr />
+<h1>第二章</h1>
+<h2>第三讲 一维随机变量及其分布（一）</h2>
+<blockquote>
+<p>本讲包含 3 种题型。</p>
+</blockquote>
+<hr />
+<h3>一、离散型随机变量（R.V.）求分布律</h3>
+<p><strong>【分析】</strong> 离散型随机变量 R.V. 的分布律求法："<strong>先求取值，再求概率</strong>"。</p>
+<h4>例</h4>
+<p>将一枚骰子掷两次，以 $X$ 表示两次中得到的小的点数，求 $X$ 的分布律（概率分布）。</p>
+<p><strong>解：</strong> $X=$ "两次骰子中较小的点数"，$X$ 可能取值：$1,2,3,4,5,6$。</p>
+<p>⇒ 分布律：</p>
+<table>
+<thead>
+<tr>
+<th>$X$</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>$P$</td>
+<td>$p_1$</td>
+<td>$p_2$</td>
+<td>$p_3$</td>
+<td>$p_4$</td>
+<td>$p_5$</td>
+<td>$p_6$</td>
+</tr>
+</tbody>
+</table>
+<p><strong>法1（列表法）</strong>：掷两次总情况共 $6\times 6=36$ 种（等可能）：</p>
+<table>
+<thead>
+<tr>
+<th>第一次 ＼ 第二次</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td>(1,1)</td>
+<td>(1,2)</td>
+<td>(1,3)</td>
+<td>(1,4)</td>
+<td>(1,5)</td>
+<td>(1,6)</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td>(2,1)</td>
+<td>(2,2)</td>
+<td>(2,3)</td>
+<td>(2,4)</td>
+<td>(2,5)</td>
+<td>(2,6)</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td>(3,1)</td>
+<td>(3,2)</td>
+<td>(3,3)</td>
+<td>(3,4)</td>
+<td>(3,5)</td>
+<td>(3,6)</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td>(4,1)</td>
+<td>(4,2)</td>
+<td>(4,3)</td>
+<td>(4,4)</td>
+<td>(4,5)</td>
+<td>(4,6)</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td>(5,1)</td>
+<td>(5,2)</td>
+<td>(5,3)</td>
+<td>(5,4)</td>
+<td>(5,5)</td>
+<td>(5,6)</td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td>(6,1)</td>
+<td>(6,2)</td>
+<td>(6,3)</td>
+<td>(6,4)</td>
+<td>(6,5)</td>
+<td>(6,6)</td>
+</tr>
+</tbody>
+</table>
+<p>其中</p>
+<p>$$p_1=\frac{\text{"}X=1\text{" 情况数}}{\text{总情况数}}=\frac{11}{36},\qquad p_2=\frac{9}{36},\qquad p_3=\frac{7}{36}$$</p>
+<p>$$p_4=\frac{5}{36},\qquad p_5=\frac{3}{36},\qquad p_6=\frac{1}{36}$$</p>
+<p><strong>法2（排列法）</strong>：</p>
+<p>$$p_1=\frac{\text{"先1后}X\text{"}+\text{"先大后1"}+\text{"先1后1"}}{\text{总情况数}}=\frac{A_1^1A_5^1+A_5^1A_1^1+A_1^1A_1^1}{A_6^1\cdot A_6^1}=\frac{11}{36}$$</p>
+<p>$$p_2=\frac{A_1^1A_4^1+A_4^1A_1^1+A_1^1A_1^1}{A_6^1\cdot A_6^1}=\frac{9}{36}$$</p>
+<p>同理可得 $p_3=\dfrac{7}{36}$，$p_4=\dfrac{5}{36}$，$p_5=\dfrac{3}{36}$，$p_6=\dfrac{1}{36}$。故</p>
+<table>
+<thead>
+<tr>
+<th>$X$</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>$P$</td>
+<td>$\dfrac{11}{36}$</td>
+<td>$\dfrac{9}{36}$</td>
+<td>$\dfrac{7}{36}$</td>
+<td>$\dfrac{5}{36}$</td>
+<td>$\dfrac{3}{36}$</td>
+<td>$\dfrac{1}{36}$</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h3>二、利用常见离散型分布求概率</h3>
+<p><strong>【分析】</strong> 当出现"独立"、"$n$ 次试验"、"每次试验只有两种结果"时，用<strong>二项分布</strong> $B(n,p)$，其分布律为</p>
+<p>$$P{X=k}=C_n^k,p^k(1-p)^{n-k},\qquad k=0,1,\cdots,n$$</p>
+<h4>例</h4>
+<p>在四次独立射击试验中，每次命中目标的概率为 $p$，若已知至少命中 1 次的概率为 $\dfrac{80}{81}$，求 $p$。</p>
+<p><strong>解：</strong> 设 $X=$ "4 次射击中命中目标的次数"，则 $X\sim B(4,p)$。</p>
+<p>由题意 $P{\text{至少命中 1 次}}=\dfrac{80}{81}$，故</p>
+<p>$$P{\text{4 次均未中}}=1-\frac{80}{81}=\frac{1}{81}$$</p>
+<p>$$\Rightarrow\ P{X=0}=C_4^0,p^0(1-p)^{4-0}=\frac{1}{81}$$</p>
+<p>$$\Rightarrow\ (1-p)^4=\frac{1}{81}=\left(\frac{1}{3}\right)^4\ \Rightarrow\ 1-p=\frac{1}{3}\ \Rightarrow\ p=\frac{2}{3}$$</p>
+<hr />
+<h3>三、连续型 R.V. 相关计算</h3>
+<p><strong>连续型 R.V. $X$ 的区间概率：</strong></p>
+<p>$$P{a&lt;X\leq b}\overset{①}{=}\int_a^b f(x),dx\overset{②}{=}F(b)-F(a)$$</p>
+<p>$$P{X=a}=0,\qquad P{X\leq a}=F(a)=\int_{-\infty}^{a}f(x),dx$$</p>
+<h4>例1</h4>
+<p>设 R.V. $X$ 的分布函数</p>
+<p>$$F(x)=\begin{cases}0,&amp;x&lt;1\[4pt] \ln x,&amp;1\leq x&lt;e\[4pt] 1,&amp;x\geq e\end{cases}$$</p>
+<p>（1）求 $X$ 的概率密度 $f(x)$；（2）求 $P{X&lt;2}$、$P{0&lt;X\leq 3}$。</p>
+<p><strong>解：</strong></p>
+<p>（1）由 $f(x)=F'(x)$：</p>
+<p>$$f(x)=\begin{cases}0,&amp;x&lt;1\[4pt] \dfrac{1}{x},&amp;1\leq x&lt;e\[4pt] 0,&amp;x\geq e\end{cases}=\begin{cases}\dfrac{1}{x},&amp;1\leq x&lt;e\[4pt] 0,&amp;\text{其它}\end{cases}$$</p>
+<p>&lt;img src="/images/posts/probability-statistics/assets/3-1-对数型分布函数.svg" alt="分布函数 F(x)：x&lt;1 时为 0，1≤x&lt;e 时为 ln x，x≥e 时为 1" style="width:30vw;display:block;margin:0 auto;"/&gt;</p>
+<p>（2）</p>
+<p>① $P{X&lt;2}=P{X\leq 2}=F(2)=\ln 2$</p>
+<p>② 法1：$P{0&lt;X\leq 3}=F(3)-F(0)=1-0=1$</p>
+<p>法2：$P{0&lt;X\leq 3}=\displaystyle\int_0^3 f(x),dx=\int_1^e \frac{1}{x},dx=\ln x\Big|_1^e=1$</p>
+<blockquote>
+<p>注：$f(x)$ 仅在 $[1,e]$ 上非零，故积分区间由 $[0,3]$ 收缩为 $[1,e]$。</p>
+</blockquote>
+<h4>例2</h4>
+<p>设 $X$ 的概率密度为</p>
+<p>$$f(x)=\begin{cases}ke^{-2x},&amp;x&gt;0\[4pt] 0,&amp;x&lt;0\end{cases}$$</p>
+<p>（1）求 $k$；（2）求分布函数 $F(x)$。</p>
+<p><strong>【分析】</strong></p>
+<p>（1）已知 $f(x)$ 反求参数——用<strong>规范性</strong>：$\displaystyle\int_{-\infty}^{+\infty}f(x),dx=1$（即 $F(+\infty)=1$、$F(-\infty)=0$）</p>
+<p>（2）已知 $f(x)$ 求 $F(x)$——<strong>不定积分</strong>：① $F(x)=\int f(x),dx$；② 用 $F(x)$ 的规范性</p>
+<p><strong>解：</strong></p>
+<p>（1）由规范性</p>
+<p>$$1=\int_{-\infty}^{+\infty}f(x),dx=\int_0^{+\infty}f(x),dx=\int_0^{+\infty}ke^{-2x},dx$$</p>
+<p>$$\therefore\ 1=\int_0^{+\infty}ke^{-2x},dx=k\cdot\left(-\frac{1}{2}\right)e^{-2x}\Big|_0^{+\infty}=\frac{k}{2}\ \Rightarrow\ k=2$$</p>
+<p>（其中 $e^{-\infty}=0$，$e^0=1$）</p>
+<p>（2）由 $F'(x)=f(x)=\begin{cases}2e^{-2x},&amp;x\geq 0\[4pt] 0,&amp;x&lt;0\end{cases}$，显然</p>
+<p>$$F(x)=\begin{cases}-e^{-2x}+C_1,&amp;x\geq 0\[4pt] C_2,&amp;x&lt;0\end{cases}$$</p>
+<p>由规范性</p>
+<p>$$\begin{cases}F(-\infty)=0\ \Rightarrow\ C_2=0\[6pt] F(+\infty)=1\ \Rightarrow\ -e^{-2\times(+\infty)}+C_1=1\ \Rightarrow\ C_1=1\end{cases}$$</p>
+<p>$$\Rightarrow\ F(x)=\begin{cases}1-e^{-2x},&amp;x\geq 0\[4pt] 0,&amp;x&lt;0\end{cases}$$</p>
+<p>&lt;img src="/images/posts/probability-statistics/assets/3-2-指数分布.svg" alt="指数分布：概率密度 f(x)=2e^(-2x) 与分布函数 F(x)=1-e^(-2x)" style="width:30vw;display:block;margin:0 auto;"/&gt;</p>
+<h4>例3</h4>
+<p>若 $X\sim f(x)=\begin{cases}1,&amp;0&lt;x&lt;1\[4pt] 0,&amp;\text{其他}\end{cases}$，求 $F(x)$。</p>
+<p><strong>【分析】</strong> 已知 $f(x)$ 求 $F(x)$（不定积分）：</p>
+<p>① $F(x)=\int f(x),dx$；② 规范性 $F(-\infty)=0$、$F(+\infty)=1$；③ <strong>分段点处连续</strong></p>
+<p><strong>解：</strong></p>
+<p>① 由 $f(x)=\begin{cases}0,&amp;x\leq 0\[4pt] 1,&amp;0&lt;x&lt;1\[4pt] 0,&amp;x\geq 1\end{cases}$，显然</p>
+<p>$$F(x)=\begin{cases}C_1,&amp;x\leq 0\[4pt] x+C_2,&amp;0&lt;x&lt;1\[4pt] C_3,&amp;x\geq 1\end{cases}$$</p>
+<p>② 由规范性：$F(-\infty)=0\Rightarrow C_1=0$；$F(+\infty)=1\Rightarrow C_3=1$</p>
+<p>由分段点处连续：</p>
+<p>$$\lim_{x\to 0^-}F(x)=\lim_{x\to 0^+}F(x)\ \Rightarrow\ \lim_{x\to 0^-}C_1=\lim_{x\to 0^+}(x+C_2)\ \Rightarrow\ C_2=0$$</p>
+<p>综上</p>
+<p>$$F(x)=\begin{cases}0,&amp;x\leq 0\[4pt] x,&amp;0&lt;x&lt;1\[4pt] 1,&amp;x\geq 1\end{cases}$$</p>
+<p>&lt;img src="/images/posts/probability-statistics/assets/3-3-均匀分布.svg" alt="均匀分布 U(0,1)：概率密度 f(x)=1 与分布函数 F(x)" style="width:30vw;display:block;margin:0 auto;"/&gt;</p>
+<hr />
 ]]></content>
     <author><name>仙鹤</name></author>
     <category term="考试"/>

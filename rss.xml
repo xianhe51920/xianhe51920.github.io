@@ -5989,7 +5989,7 @@ public static void main(String[] args) {
 &lt;/table&gt;
 &lt;h3&gt;1. 认识机械波&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;机械波的形成：&lt;/strong&gt; 波源振动带动相邻质点依次振动，振动形式在介质中由近及远传播。介质中各质点只在自己的平衡位置附近振动，&lt;strong&gt;不随波迁移&lt;/strong&gt;，传播的是振动形式和能量。&lt;/p&gt;
-&lt;p&gt;&amp;lt;img src=&quot;/images/posts/physics-oscillation/assets/3-1-横波形成与传播.svg&quot; alt=&quot;横波的形成与传播：绳上质点上下振动、波形向右传播，图中标出波长 λ、振动周期 T 与振幅 A&quot; style=&quot;width:30vw;display:block;margin:0 auto;&quot;/&amp;gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;img src=&quot;/images/posts/physics-oscillation/assets/3-1-横波形成与传播.svg&quot; alt=&quot;横波的形成与传播：绳上质点上下振动、波形向右传播，图中标出波长 λ、振动周期 T 与振幅 A&quot; style=&quot;width:40vw;display:block;margin:0 auto;&quot;/&amp;gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;波速、波长、周期的关系：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;$$u = \frac{\lambda}{T} = \lambda \nu$$&lt;/p&gt;
 &lt;ul&gt;
